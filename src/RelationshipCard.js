@@ -72,7 +72,7 @@ export default function RelationshipCard({
             component="p"
             gutterBottom
           >
-            {description}
+            {description ?? <em>No Description</em>}
           </Typography>
           {isManager && <Assignees assignees={assignees} />}
         </CardContent>
