@@ -1,0 +1,16 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "Derived from: https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/cards/RecipeReviewCard.js",
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "clsx": "latest",
+    "@material-ui/icons": "latest",
+    "@material-ui/core": "latest"
+  },
+  "keywords": [],
+  "name": "relationship-list-mobile-non-managers"
+}
